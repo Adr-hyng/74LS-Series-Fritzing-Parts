@@ -22,8 +22,8 @@ The goal of this project is to provide a comprehensive set of Fritzing parts for
 
 | <div align="center"> Name </div>                    |<div align="center"> Description </div>| <div align="center"> Datasheet </div> | <div align="center"> Breadboard </div>  | <div align="center"> Schematic </div> | <div align="center"> PCB </div>        |
 | ----------------------- | --------------------------------------------- |:----:| --- | --- | ------------------ |
-| <b>7400</b>     | quad 2-input NAND gate                        |  ✔️  | ✔️ | ✔️ | ✔️                 |
-| <b>7400</b>     | quad 2-input NAND gate                        |  ✔️  | ✔️ | ✔️ | ✔️                 |
+| <b>7400</b>     | quad 2-input NAND gate                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
+| <b>7400</b>     | quad 2-input NAND gate                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 
 
 </div>
