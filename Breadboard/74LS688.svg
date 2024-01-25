@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   version="1.2"
+   height="0.33in"
+   gorn="0"
+   xml:space="preserve"
+   viewBox="0 0 100.0 33.0"
+   width="1.0in"
+   sodipodi:docname="74LS688.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#505050"
+   inkscape:document-units="in"
+   inkscape:zoom="4.375"
+   inkscape:cx="48"
+   inkscape:cy="15.771429"
+   inkscape:window-width="1024"
+   inkscape:window-height="600"
+   inkscape:window-x="0"
+   inkscape:window-y="9"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="label" />
+    <desc
+   id="desc1">
+        <referenceFile>74HC245_breadboard.svg</referenceFile>
+    </desc>
+    <metadata
+   id="metadata3508">
+        <rdf:RDF>
+            <cc:Work
+   rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs
+   id="defs3506" />
+    <g
+   id="breadboard"
+   gorn="0.3">
+        <g
+   id="g384"
+   gorn="0.3.0">
+            <rect
+   id="middle"
+   height="27.0"
+   gorn="0.3.0.0"
+   y="3"
+   fill="#303030"
+   width="100.0"
+   x="0" />
+            <rect
+   id="top"
+   height="2.46"
+   gorn="0.3.0.1"
+   y="3.0"
+   fill="#3D3D3D"
+   width="100.0"
+   x="0" />
+            <rect
+   id="bottom"
+   height="2.46"
+   gorn="0.3.0.2"
+   y="27.54"
+   fill="#000000"
+   width="100.0"
+   x="0" />
+            <polygon
+   id="right"
+   points="100.0,3 99.25,5.46 99.25,27.54 100.0,30.0"
+   gorn="0.3.0.3"
+   fill="#141414" />
+            <polygon
+   id="left"
+   points="0,3 0.75,5.46 0.75,27.54 0,30.0"
+   gorn="0.3.0.4"
+   fill="#1F1F1F" />
+            <polygon
+   id="left-upper-rect"
+   points="5,11.5 0.75,11.46 0.56,13.58 0.56,16.5 5,16.5"
+   gorn="0.3.0.5"
+   fill="#1C1C1C" />
+            <polygon
+   id="left-lower-rect"
+   points="0.75,21.55 5,21.55 5,16.5 0.56,16.5 0.56,19.42"
+   gorn="0.3.0.6"
+   fill="#383838" />
+            <path
+   id="slot"
+   d="M0.56,13.58v5.83c1.47-0.17,2.62-1.4,2.62-2.92C3.18,14.97,2.04,13.75,0.56,13.58z"
+   gorn="0.3.0.7"
+   fill="#262626" />
+            <path
+   id="cover"
+   d="M0.75,5.46V11.45c2.38,0.45,4.19,2.53,4.19,5.04c0,2.51-1.8,4.6-4.19,5.05V21.55h5.0V5.46H0.75z"
+   gorn="0.3.0.8"
+   fill="#303030" />
+            <circle
+   id="circle3421"
+   cy="23.47"
+   cx="6.5"
+   gorn="0.3.0.9"
+   r="2.06"
+   fill="#212121" />
+            <g
+   id="label"
+   style="text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+   gorn="0.3.0.10"
+   fill="#e6e6e6"
+   text-anchor="start"
+   font-size="8"
+   stroke="none"
+   font-family="OCRA">
+                <text
+   id="text248586"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.33333px;line-height:0%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   gorn="0.3.0.10.0"
+   y="16.673611"
+   x="8.5833321">74LS688</text>
+            </g>
+            <rect
+   id="connector0pin"
+   height="4.34"
+   gorn="0.3.0.11"
+   y="28.66"
+   fill="#8C8C8C"
+   width="3"
+   x="3.5" />
+            <rect
+   id="connector0terminal"
+   height="3"
+   gorn="0.3.0.12"
+   y="30.0"
+   fill="#8C8C8C"
+   width="3"
+   x="3.5" />
+            <polygon
+   id="polygon3426"
+   points="3.5,28.66 3.5,30.66 6.5,30.66 8.5,29.74 8.5,28.66  "
+   gorn="0.3.0.13"
+   fill="#8C8C8C" />
+            <rect
+   id="connector19pin"
+   height="4.34"
+   gorn="0.3.0.14"
+   fill="#8C8C8C"
+   width="3"
+   x="3.5" />
+            <rect
+   id="connector19terminal"
+   height="3"
+   gorn="0.3.0.15"
+   fill="#8C8C8C"
+   width="3"
+   x="3.5" />
+            <polygon
+   id="polygon3430"
+   points="8.5,4.34 8.5,3.26 6.5,2.34 3.5,2.34 3.5,4.34"
+   gorn="0.3.0.16"
+   fill="#8C8C8C" />
+            <rect
+   id="connector9pin"
+   height="4.34"
+   gorn="0.3.0.17"
+   y="28.66"
+   fill="#8C8C8C"
+   width="3"
+   x="93.5" />
+            <rect
+   id="connector9terminal"
+   height="3"
+   gorn="0.3.0.18"
+   y="30.0"
+   fill="#8C8C8C"
+   width="3"
+   x="93.5" />
+            <polygon
+   id="polygon3434"
+   points="91.5,28.66 91.5,29.74 93.5,30.66 96.5,30.66 96.5,28.66"
+   gorn="0.3.0.19"
+   fill="#8C8C8C" />
+            <rect
+   id="connector10pin"
+   height="4.34"
+   gorn="0.3.0.20"
+   y="0"
+   fill="#8C8C8C"
+   width="3"
+   x="93.5" />
+            <rect
+   id="connector10terminal"
+   height="3"
+   gorn="0.3.0.21"
+   y="0"
+   fill="#8C8C8C"
+   width="3"
+   x="93.5" />
+            <polygon
+   id="polygon3438"
+   points="96.5,4.34 96.5,2.34 93.5,2.34 91.5,3.26 91.5,4.34  "
+   gorn="0.3.0.22"
+   fill="#8C8C8C" />
+            <rect
+   id="connector1pin"
+   height="4.34"
+   gorn="0.3.0.23"
+   y="28.66"
+   fill="#8C8C8C"
+   width="3"
+   x="13.5" />
+            <rect
+   id="connector1terminal"
+   height="3"
+   gorn="0.3.0.24"
+   y="30.0"
+   fill="#8C8C8C"
+   width="3"
+   x="13.5" />
+            <polygon
+   id="polygon3442"
+   points="11.5,28.66 11.5,29.74 13.5,30.66 16.5,30.66 18.5,29.74 18.5,28.66"
+   gorn="0.3.0.25"
+   fill="#8C8C8C" />
+            <rect
+   id="connector18pin"
+   height="4.34"
+   gorn="0.3.0.26"
+   y="0"
+   fill="#8C8C8C"
+   width="3"
+   x="13.5" />
+            <rect
+   id="connector18terminal"
+   height="3"
+   gorn="0.3.0.27"
+   fill="#8C8C8C"
+   width="3"
+   x="13.5" />
+            <polygon
+   id="polygon3446"
+   points="18.5,4.34 18.5,3.26 16.5,2.34 13.5,2.34 11.5,3.26 11.5,4.34"
+   gorn="0.3.0.28"
+   fill="#8C8C8C" />
+            <rect
+   id="connector2pin"
+   height="4.34"
+   gorn="0.3.0.29"
+   y="28.66"
+   fill="#8C8C8C"
+   width="3"
+   x="23.5" />
+            <rect
+   id="connector2terminal"
+   height="3"
+   gorn="0.3.0.30"
+   y="30.0"
+   fill="#8C8C8C"
+   width="3"
+   x="23.5" />
+            <polygon
+   id="polygon3450"
+   points="21.5,28.66 21.5,29.74 23.5,30.66 26.5,30.66 28.5,29.74 28.5,28.66"
+   gorn="0.3.0.31"
+   fill="#8C8C8C" />
+            <rect
+   id="connector17pin"
+   height="4.34"
+   gorn="0.3.0.32"
+   y="0"
+   fill="#8C8C8C"
+   width="3"
+   x="23.5" />
+            <rect
+   id="connector17terminal"
+   height="3"
+   gorn="0.3.0.33"
+   fill="#8C8C8C"
+   width="3"
+   x="23.5" />
+            <polygon
+   id="polygon3454"
+   points="28.5,4.34 28.5,3.26 26.5,2.34 23.5,2.34 21.5,3.26 21.5,4.34"
+   gorn="0.3.0.34"
+   fill="#8C8C8C" />
+            <rect
+   id="connector3pin"
+   height="4.34"
+   gorn="0.3.0.35"
+   y="28.66"
+   fill="#8C8C8C"
+   width="3"
+   x="33.5" />
+            <rect
+   id="connector3terminal"
+   height="3"
+   gorn="0.3.0.36"
+   y="30.0"
+   fill="#8C8C8C"
+   width="3"
+   x="33.5" />
+            <polygon
+   id="polygon3458"
+   points="31.5,28.66 31.5,29.74 33.5,30.66 36.5,30.66 38.5,29.74 38.5,28.66"
+   gorn="0.3.0.37"
+   fill="#8C8C8C" />
+            <rect
+   id="connector16pin"
+   height="4.34"
+   gorn="0.3.0.38"
+   y="0"
+   fill="#8C8C8C"
+   width="3"
+   x="33.5" />
+            <rect
+   id="connector16terminal"
+   height="3"
+   gorn="0.3.0.39"
+   fill="#8C8C8C"
+   width="3"
+   x="33.5" />
+            <polygon
+   id="polygon3462"
+   points="38.5,4.34 38.5,3.26 36.5,2.34 33.5,2.34 31.5,3.26 31.5,4.34"
+   gorn="0.3.0.40"
+   fill="#8C8C8C" />
+            <rect
+   id="connector4pin"
+   height="4.34"
+   gorn="0.3.0.41"
+   y="28.66"
+   fill="#8C8C8C"
+   width="3"
+   x="43.5" />
+            <rect
+   id="connector4terminal"
+   height="3"
+   gorn="0.3.0.42"
+   y="30.0"
+   fill="#8C8C8C"
+   width="3"
+   x="43.5" />
+            <polygon
+   id="polygon3466"
+   points="41.5,28.66 41.5,29.74 43.5,30.66 46.5,30.66 48.5,29.74 48.5,28.66"
+   gorn="0.3.0.43"
+   fill="#8C8C8C" />
+            <rect
+   id="connector15pin"
+   height="4.34"
+   gorn="0.3.0.44"
+   y="0"
+   fill="#8C8C8C"
+   width="3"
+   x="43.5" />
+            <rect
+   id="connector15terminal"
+   height="3"
+   gorn="0.3.0.45"
+   fill="#8C8C8C"
+   width="3"
+   x="43.5" />
+            <polygon
+   id="polygon3470"
+   points="48.5,4.34 48.5,3.26 46.5,2.34 43.5,2.34 41.5,3.26 41.5,4.34"
+   gorn="0.3.0.46"
+   fill="#8C8C8C" />
+            <rect
+   id="connector5pin"
+   height="4.34"
+   gorn="0.3.0.47"
+   y="28.66"
+   fill="#8C8C8C"
+   width="3"
+   x="53.5" />
+            <rect
+   id="connector5terminal"
+   height="3"
+   gorn="0.3.0.48"
+   y="30.0"
+   fill="#8C8C8C"
+   width="3"
+   x="53.5" />
+            <polygon
+   id="polygon3474"
+   points="51.5,28.66 51.5,29.74 53.5,30.66 56.5,30.66 58.5,29.74 58.5,28.66"
+   gorn="0.3.0.49"
+   fill="#8C8C8C" />
+            <rect
+   id="connector14pin"
+   height="4.34"
+   gorn="0.3.0.50"
+   y="0"
+   fill="#8C8C8C"
+   width="3"
+   x="53.5" />
+            <rect
+   id="connector14terminal"
+   height="3"
+   gorn="0.3.0.51"
+   fill="#8C8C8C"
+   width="3"
+   x="53.5" />
+            <polygon
+   id="polygon3478"
+   points="58.5,4.34 58.5,3.26 56.5,2.34 53.5,2.34 51.5,3.26 51.5,4.34"
+   gorn="0.3.0.52"
+   fill="#8C8C8C" />
+            <rect
+   id="connector6pin"
+   height="4.34"
+   gorn="0.3.0.53"
+   y="28.66"
+   fill="#8C8C8C"
+   width="3"
+   x="63.5" />
+            <rect
+   id="connector6terminal"
+   height="3"
+   gorn="0.3.0.54"
+   y="30.0"
+   fill="#8C8C8C"
+   width="3"
+   x="63.5" />
+            <polygon
+   id="polygon3482"
+   points="61.5,28.66 61.5,29.74 63.5,30.66 66.5,30.66 68.5,29.74 68.5,28.66"
+   gorn="0.3.0.55"
+   fill="#8C8C8C" />
+            <rect
+   id="connector13pin"
+   height="4.34"
+   gorn="0.3.0.56"
+   y="0"
+   fill="#8C8C8C"
+   width="3"
+   x="63.5" />
+            <rect
+   id="connector13terminal"
+   height="3"
+   gorn="0.3.0.57"
+   fill="#8C8C8C"
+   width="3"
+   x="63.5" />
+            <polygon
+   id="polygon3486"
+   points="68.5,4.34 68.5,3.26 66.5,2.34 63.5,2.34 61.5,3.26 61.5,4.34"
+   gorn="0.3.0.58"
+   fill="#8C8C8C" />
+            <rect
+   id="connector7pin"
+   height="4.34"
+   gorn="0.3.0.59"
+   y="28.66"
+   fill="#8C8C8C"
+   width="3"
+   x="73.5" />
+            <rect
+   id="connector7terminal"
+   height="3"
+   gorn="0.3.0.60"
+   y="30.0"
+   fill="#8C8C8C"
+   width="3"
+   x="73.5" />
+            <polygon
+   id="polygon3490"
+   points="71.5,28.66 71.5,29.74 73.5,30.66 76.5,30.66 78.5,29.74 78.5,28.66"
+   gorn="0.3.0.61"
+   fill="#8C8C8C" />
+            <rect
+   id="connector12pin"
+   height="4.34"
+   gorn="0.3.0.62"
+   y="0"
+   fill="#8C8C8C"
+   width="3"
+   x="73.5" />
+            <rect
+   id="connector12terminal"
+   height="3"
+   gorn="0.3.0.63"
+   fill="#8C8C8C"
+   width="3"
+   x="73.5" />
+            <polygon
+   id="polygon3494"
+   points="78.5,4.34 78.5,3.26 76.5,2.34 73.5,2.34 71.5,3.26 71.5,4.34"
+   gorn="0.3.0.64"
+   fill="#8C8C8C" />
+            <rect
+   id="connector8pin"
+   height="4.34"
+   gorn="0.3.0.65"
+   y="28.66"
+   fill="#8C8C8C"
+   width="3"
+   x="83.5" />
+            <rect
+   id="connector8terminal"
+   height="3"
+   gorn="0.3.0.66"
+   y="30.0"
+   fill="#8C8C8C"
+   width="3"
+   x="83.5" />
+            <polygon
+   id="polygon3498"
+   points="81.5,28.66 81.5,29.74 83.5,30.66 86.5,30.66 88.5,29.74 88.5,28.66"
+   gorn="0.3.0.67"
+   fill="#8C8C8C" />
+            <rect
+   id="connector11pin"
+   height="4.34"
+   gorn="0.3.0.68"
+   y="0"
+   fill="#8C8C8C"
+   width="3"
+   x="83.5" />
+            <rect
+   id="connector11terminal"
+   height="3"
+   gorn="0.3.0.69"
+   fill="#8C8C8C"
+   width="3"
+   x="83.5" />
+            <polygon
+   id="polygon3502"
+   points="88.5,4.34 88.5,3.26 86.5,2.34 83.5,2.34 81.5,3.26 81.5,4.34"
+   gorn="0.3.0.70"
+   fill="#8C8C8C" />
+        </g>
+    </g>
+</svg>
