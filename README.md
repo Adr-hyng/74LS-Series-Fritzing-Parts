@@ -75,8 +75,8 @@ The goal of this project is to provide a comprehensive set of Fritzing parts for
 | <b>[74645](./Parts/74LS645.fzpz)</b>     |        Octal Bus Transceiver Tri-State                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ❌ </div> | ✔️                 |
 | <b>[74688](./Parts/74LS688.fzpz)</b>     |        8-bit Magnitude Comparator                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ❌ </div> | ✔️                 |
 | <b>[28C16](./Parts/AT28C16.fzpz)</b>     |        16K (2K x 8) Parallel EEPROMs                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
-| <b>[28C64](./Parts/AT28C64.fzpz)</b>     |        64K (8K x 8) Parallel EEPROMs                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
-| <b>[28C256](./Parts/AT28C256.fzpz)</b>     |        256K (32K x 8) Parallel EEPROMs                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
+| <b>[28C64](./Parts/AT28C64.fzpz)</b>     |        64K (8K x 8) Parallel EEPROMs                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ❌                 |
+| <b>[28C256](./Parts/AT28C256.fzpz)</b>     |        256K (32K x 8) Parallel EEPROMs                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ❌                 |
 | <b>[LM555](./Parts/NE555%20Timer.fzpz)</b>     |        NE 555 Timer (Fritzing Built-in)                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[5461AS](./Parts/7-SEGMENT-4DIGIT%20common%20cathode.fzpz)</b>     |        4 Digit CC 7-Segment Display                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 
