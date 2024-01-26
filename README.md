@@ -50,7 +50,7 @@ The goal of this project is to provide a comprehensive set of Fritzing parts for
 | <b>[74151](./Parts/74LS151.fzpz)</b>     |      8-input Multiplexer                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ❌ </div> | ✔️                 |
 | <b>[74153](./Parts/74LS153.fzpz)</b>     |       Dual 4 to 1 Selector/Multiplexer                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ❌ </div> | ✔️                 |
 | <b>[74155](./Parts/74LS155.fzpz)</b>     |       Dual 2/4 Demultiplexer                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ❌ </div> | ✔️                 |
-| <b>[74157?](./Parts/74LS155.fzpz)</b>     |        Quad 2/1 Data Selector                        |  ✔️  | <div align="center"> ❌ </div> | <div align="center"> ❌ </div> | ✔️                 |
+| <b>[74157](./Parts/74LS157.fzpz)</b>     |        Quad 2/1 Data Selector                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ❌ </div> | ✔️                 |
 | <b>[74160](./Parts/74LS160.fzpz)</b>     |        Decade Counter with Asynchronous Clear                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ❌ </div> | ✔️                 |
 | <b>[74161](./Parts/74LS161.fzpz)</b>     |        Synch 4-bit Counter                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ❌ </div> | ✔️                 |
 | <b>[74162](./Parts/74LS162.fzpz)</b>     |        BCD Decade Counter                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ❌ </div> | ✔️                 |
