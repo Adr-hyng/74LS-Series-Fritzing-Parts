@@ -79,6 +79,8 @@ The goal of this project is to provide a comprehensive set of Fritzing parts for
 | <b>[28C256](./Parts/AT28C256.fzpz)</b>     |        256K (32K x 8) Parallel EEPROMs                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ❌                 |
 | <b>[LM555](./Parts/NE555%20Timer.fzpz)</b>     |        NE 555 Timer (Fritzing Built-in)                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[5461AS](./Parts/7-SEGMENT-4DIGIT%20common%20cathode.fzpz)</b>     |        4 Digit CC 7-Segment Display                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
+| <b>[BB-Power Rail ONLY](./Parts/BB_Power_Rail_ONLY.fzpz)</b>     |        [Power Rails ONLY MB102](https://forum.fritzing.org/t/power-rails-only-custom-breadboard/22109/3)                        |  ⚙️  | <div align="center"> ⚙️ </div> | <div align="center"> ⚙️ </div> | ⚙️                 |
+| <b>[BB-No Power Rail](./Parts/BB_No_Power_Rails.fzpz)</b>     |        [No Power Rails MB102](https://forum.fritzing.org/t/missing-elv-58832-in-fritzing/15870/5)                        |  ⚙️  | <div align="center"> ⚙️ </div> | <div align="center"> ⚙️ </div> | ⚙️                 |
 
 
 </div>
