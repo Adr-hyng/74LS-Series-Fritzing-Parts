@@ -32,17 +32,17 @@ The goal of this project is to provide a comprehensive set of Fritzing parts for
 | <b>[7432](./Parts/74LS32.fzpz)</b>     | Quad 2-input OR Gate                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[7442](./Parts/74LS42.fzpz)</b>     | BCD to Decimal Decoder                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[7448](./Parts/SN74LS48.fzpz)</b>     |  BCD to 7-segment Decoder/Driver                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
-| <b>[7473](./Parts/74LS73.fzpz)</b>     |   Dual JK Flip-Flop with Clear                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ❌ </div> | ✔️                 |
-| <b>[7474](./Parts/74LS74.fzpz)</b>     |    Dual D-Type Flip-Flop                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ❌ </div> | ✔️                 |
+| <b>[7473](./Parts/74LS73.fzpz)</b>     |   Dual JK Flip-Flop with Clear                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
+| <b>[7474](./Parts/74LS74.fzpz)</b>     |    Dual D-Type Flip-Flop                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[7476](./Parts/74LS76.fzpz)</b>     |    Dual JK Flip-Flop with Preset and Clear                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[7483](./Parts/74LS83.fzpz)</b>     |    4-bit Binary Full Adder                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[7485](./Parts/74LS85.fzpz)</b>     |    4-bit Magnitude Comparator                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[7486](./Parts/74LS86.fzpz)</b>     |     Quad EXCLUSIVE-OR Gate                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
-| <b>[7490](./Parts/74LS90.fzpz)</b>     |     Decade Counter                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ❌ </div> | ✔️                 |
-| <b>[7493](./Parts/74LS93.fzpz)</b>     |     4-bit Binary Counter                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ❌ </div> | ✔️                 |
+| <b>[7490](./Parts/74LS90.fzpz)</b>     |     Decade Counter                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
+| <b>[7493](./Parts/74LS93.fzpz)</b>     |     4-bit Binary Counter                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[7494](./Parts/74LS94.fzpz)</b>     |     Dual 4-Bit 4-Bit Serial In-Out Shift Register                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
-| <b>[7495](./Parts/74LS95.fzpz)</b>     |     4-bit Parallel-access Shift Register                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ❌ </div> | ✔️                 |
-| <b>[74126](./Parts/74LS126.fzpz)</b>     |     Quad Bus Buffer Tri-State                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ❌ </div> | ✔️                 |
+| <b>[7495](./Parts/74LS95.fzpz)</b>     |     4-bit Parallel-access Shift Register                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
+| <b>[74126](./Parts/74LS126.fzpz)</b>     |     Quad Bus Buffer Tri-State                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[74137](./Parts/74LS137.fzpz)</b>     |     3 to 8 Line Decoder                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[74138](./Parts/74LS138.fzpz)</b>     |     3 to 8 Decoder/Demultiplexer                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[74139](./Parts/74LS139.fzpz)</b>     |     2 to 4 Decoder/Demultiplexer                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
@@ -68,7 +68,7 @@ The goal of this project is to provide a comprehensive set of Fritzing parts for
 | <b>[74247](./Parts/74LS247.fzpz)</b>     |        BCD to 7-Segment Decoder/Driver                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[74273](./Parts/74LS273.fzpz)</b>     |        Octal D-type Flip-Flop with Clear                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ❌ </div> | ✔️                 |
 | <b>[74283](./Parts/74LS283.fzpz)</b>     |        4-bit Binary Full Add with Fast Carry                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
-| <b>[74293](./Parts/74LS293.fzpz)</b>     |        Decade and 4-bit Binary Counter                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ❌ </div> | ✔️                 |
+| <b>[74293](./Parts/74LS293.fzpz)</b>     |        Decade and 4-bit Binary Counter                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[74299](./Parts/74LS299.fzpz)</b>     |        8-bit Universal Shift/Storage Register                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ❌ </div> | ✔️                 |
 | <b>[74590](./Parts/74LS590.fzpz)</b>     |        8-bit Binary Counter with Tri-State Register                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[74595](./Parts/74LS595.fzpz)</b>     |        8-bit Serial-to-Parallel Shift Register Tri-State                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
