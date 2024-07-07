@@ -8,7 +8,7 @@
   </a>
 </div>
 
-I'm new to Fritzing parts creation, but here's a repository containing over 50+ Fritzing parts to for designers and tech-enthusiasts to use for digital electronics and logic circuit design, focusing on the 74LS series ICs. Download this bin file [74LSxxx](./74LSxxx.fzbz), and import it to the fritzing bin from the "parts" layer, or just get the part you want through the Parts section.
+I'm new to Fritzing parts creation, but here's a repository containing over 50+ Fritzing parts for designers and tech-enthusiasts to use for digital electronics and logic circuit design, focusing on the 74LS series ICs. Download this fritzing breadboard file [All 74LSxxx Breadboard Circuit](./Main.fzz), and open it in fritzing, and export the Logic ICs you want or need.
 
 <h2 align="center"> <strong> 🎯 Goal 🎯  </strong> </h2>
 
