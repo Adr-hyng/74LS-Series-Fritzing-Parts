@@ -12,8 +12,8 @@ I'm new to Fritzing parts creation, but here's a repository containing over 50+ 
 
 <h2 align="center"> <strong> 🎯 Goal 🎯  </strong> </h2>
 
-[id1]: ## "is to redeem myself from our Logic Circuit Design course's midterm project after being a failure. This was made in 3 days"
-The goal of this project [is to provide a comprehensive set of Fritzing parts for educational purposes][id1]. By making these parts freely available, and encouraging learners and designers to easily plan ahead and create projects in digital electronics or logic circuit design.
+[secret]: ## "is to redeem myself from our Logic Circuit Design course's midterm project after being a failure. This was made in 3 days"
+The goal of this project is to provide a comprehensive set of Fritzing parts for educational purposes. By making these parts freely available, and encouraging learners and designers to easily plan ahead and create projects in digital electronics or logic circuit design.
 
 ![image](https://github.com/Adr-hyng/74LS-Series-Fritzing-Parts/assets/95139246/3a4984e7-7473-4a3c-b384-7f688c7436f3)
 
