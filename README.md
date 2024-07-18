@@ -2,13 +2,15 @@
 
 <div align="center">
 
-  ![Version - v1.0.5](https://img.shields.io/badge/Fritzing-v0.9.10-2ea44f?logo=git&logoColor=red)
+  ![Version tag](https://img.shields.io/badge/Fritzing-v0.9.10%20--%3E%20latest-2ea44f?logo=git&logoColor=red&style=plastic)
   <a href="./LICENSE.txt">
-    <img src="https://img.shields.io/badge/License-CC_BY--SA-2ea44f.svg" alt="License">
+    <img src="https://img.shields.io/badge/License-CC_BY--SA-2ea44f.svg?style=plastic" alt="License">
   </a>
+  [![GitHub stars](https://img.shields.io/github/stars/Adr-hyng/74LS-Series-Fritzing-Parts?style=plastic&labelColor=grey&color=2ea44f&logo=github)](https://github.com/Adr-hyng/74LS-Series-Fritzing-Parts/stargazers)
 </div>
 
-I'm new to Fritzing parts creation, but here's a repository containing over 50+ Fritzing parts for designers and tech-enthusiasts to use for digital electronics and logic circuit design, focusing on the 74LS series ICs. Download this fritzing breadboard file [All 74LSxxx Breadboard Circuit](./Main.fzz), and open it in fritzing, and export the Logic ICs you want or need.
+I'm new to Fritzing parts creation, but here's a repository containing over 50+ Fritzing parts for designers and tech-enthusiasts to use for digital electronics and logic circuit design, focusing on the 74LS series ICs. Download this fritzing breadboard file ([Main.fzz](https://github.com/Adr-hyng/74LS-Series-Fritzing-Parts/releases/tag/v1.0.0)) from latest release, and open it in fritzing, and export the Logic ICs you want or need. If you find this repository helpful, consider leaving this github repo a star, thank you.
+
 
 <h2 align="center"> <strong> 🎯 Goal 🎯  </strong> </h2>
 
@@ -97,6 +99,3 @@ Contributions are welcome! If you would like to add a part, improve an existing 
 <i>[Fritzing Community](https://forum.fritzing.org/)</i> - Some parts are modified version created from the community.
 
 <i>[74HC Series](https://github.com/AwooOOoo/Fritzing_74HCxx)</i> - Reused most of this repo's parts, and created the rest.
-
-
-
