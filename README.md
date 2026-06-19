@@ -99,3 +99,27 @@ Contributions are welcome! If you would like to add a part, improve an existing 
 <i>[Fritzing Community](https://forum.fritzing.org/)</i> - Some parts are modified version created from the community.
 
 <i>[74HC Series](https://github.com/AwooOOoo/Fritzing_74HCxx)</i> - Reused most of this repo's parts, and created the rest.
+
+
+<h2 align="center"> <strong> 🔌 I/O Pin Documentation 🔌 </strong> </h2>
+
+### Example: 74LS00 (Quad 2-input NAND Gate)
+
+| Pin | Name | Description |
+|-----|------|------------|
+| 1 | A1 | Input 1 of NAND gate 1 |
+| 2 | B1 | Input 2 of NAND gate 1 |
+| 3 | Y1 | Output of NAND gate 1 |
+| 4 | A2 | Input 1 of NAND gate 2 |
+| 5 | B2 | Input 2 of NAND gate 2 |
+| 6 | Y2 | Output of NAND gate 2 |
+| 7 | GND | Ground (0V) |
+| 14 | VCC | Power supply (+5V) |
+
+### Explanation
+- Inputs (A, B): Take binary signals (0 or 1)
+- Output (Y): Produces NAND result
+- VCC: Provides power to IC
+- GND: Reference ground
+
+This section helps beginners understand how to use IC pins correctly.
