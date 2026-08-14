@@ -45,6 +45,7 @@ The goal of this project is to provide a comprehensive set of Fritzing parts for
 | <b>[7493](./Parts/74LS93.fzpz)</b>     |     4-bit Binary Counter                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[7494](./Parts/74LS94.fzpz)</b>     |     Dual 4-Bit 4-Bit Serial In-Out Shift Register                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[7495](./Parts/74LS95.fzpz)</b>     |     4-bit Parallel-access Shift Register                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
+| <b>[74112](./Parts/74LS112.fzpz)</b>     |     Dual Negative-Edge-Triggered JK Flip-Flop with Preset and Clear                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[74126](./Parts/74LS126.fzpz)</b>     |     Quad Bus Buffer Tri-State                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[74137](./Parts/74LS137.fzpz)</b>     |     3 to 8 Line Decoder                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
 | <b>[74138](./Parts/74LS138.fzpz)</b>     |     3 to 8 Decoder/Demultiplexer                        |  ✔️  | <div align="center"> ✔️ </div> | <div align="center"> ✔️ </div> | ✔️                 |
